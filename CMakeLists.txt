@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.1)
+cmake_minimum_required(VERSION 3.1) 
 project(moonlight-embedded VERSION 2.6.2 LANGUAGES C)
 SET(CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/cmake")
 SET(CMAKE_C_STANDARD 99)
